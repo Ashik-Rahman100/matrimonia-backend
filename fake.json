@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Free",
+        "price": "100",
+        "detail":  "Get Free Package or Subscription to get your partner",
+        "condition": [
+            {
+                "option": "Include in search results.",
+                "value": "2"
+            },
+            {
+                "option": "See Proflie Photo.",
+                "value": "Yes"
+            }
+        ]
+
+    },
+    {
+        "title": "Silver",
+        "price": "100",
+        "detail":  "Get Free Package or Subscription to get your partner",
+        "condition": [
+            {
+                "option": "Include in search results.",
+                "value": "2"
+            },
+            {
+                "option": "See Proflie Photo.",
+                "value": "Yes"
+            }
+        ]
+
+    },
+    {
+        "title": "Gold",
+        "price": "100",
+        "detail":  "Get Free Package or Subscription to get your partner",
+        "condition": [
+            {
+                "option": "Include in search results.",
+                "value": "2"
+            },
+            {
+                "option": "See Proflie Photo.",
+                "value": "Yes"
+            }
+        ]
+
+        
+    },
+    {
+        "title": "Diamond",
+        "price": "100",
+        "detail":  "Get Free Package or Subscription to get your partner",
+        "condition": [
+            {
+                "option": "Include in search results.",
+                "value": "2"
+            },
+            {
+                "option": "See Proflie Photo.",
+                "value": "Yes"
+            }
+        ]
+
+        
+    }
+]
